@@ -3,6 +3,7 @@ project:
 
 website:
   title: "The International Civil Service Effectiveness Project"
+  search: false
   navbar:
     title: "InCiSE 2019: Results dashboard"
     background: dark
@@ -15,9 +16,14 @@ website:
           - text: "Read the InCiSE 2019 Technical Report"
             icon: book-half
             href: https://incise-project.github.io/incise2019-techreport/
+          - text: "---"
           - text: "View the source code of this dashboard"
             icon: github
-            href: https://incise-project.github.io/incise2019-dashboard/
+            href: https://github.com/incise-project/incise2019-dashboard/
+          - text: "---"
+          - text: "Go to the InCiSE Project homepage"
+            icon: house-fill
+            href: https://incise-project.github.io/
   page-footer:
     left: "Copyright Blavatnik School of Government"
 
