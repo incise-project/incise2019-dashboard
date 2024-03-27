@@ -1,0 +1,135 @@
+﻿"metric","indicator","indord","description","label","year","proxy","transformation","wt_intheme","wt_theme","type","datapoints"
+"cap_litscore","CAP",1,"Literacy competency score","Literacy level",2012,"YES",1,4,4,"Other",1
+"cap_numscore","CAP",2,"Numeracy competency score","Numeracy level",2012,"YES",1,4,4,"Other",1
+"cap_pslscore","CAP",3,"Problem solving competency score","Problem solving level",2012,"YES",1,4,4,"Other",1
+"cap_tertedu","CAP",4,"Proportion with tertiary education","Tertiary education",2012,"YES",1,4,4,"Other",1
+"cap_ictwork","CAP",5,"Index of ICT use at work","ICT at work",2012,"YES",1,4,4,"Other",1
+"cap_numwork","CAP",6,"Index of numeracy skills at work","Numeracy at work",2012,"YES",1,4,4,"Other",1
+"cap_readwork","CAP",7,"Index of reading skills at work","Reading at work",2012,"YES",1,4,4,"Other",1
+"cap_writwork","CAP",8,"Index of writing skills at work","Writing at work",2012,"YES",1,4,4,"Other",1
+"cap_influence","CAP",9,"Index of influencing skills at work","Influencing",2012,"YES",1,3,4,"Other",1
+"cap_planning","CAP",10,"Index of planning skills at work","Planning skills",2012,"YES",1,3,4,"Other",1
+"cap_taskdisc","CAP",11,"Index of task discretion at work","Task discretion",2012,"YES",1,3,4,"Other",1
+"cap_learnatwk","CAP",12,"Index of learning at work","Learning at work",2012,"YES",1,3,4,"Other",1
+"cap_readytolrn","CAP",13,"Index of readiness to learn","Readiness to learn",2012,"YES",1,3,4,"Other",1
+"cap_lrn12mth","CAP",14,"Proportion undertaking job related learning (formal and non-formal)","Job related learning",2012,"YES",1,3,4,"Other",1
+"crm_approach","CRM",1,"Strategic approach to critical risks governance/management","Strategic approach",2016,"NO",1,5,3.3333333,"Government",7
+"crm_leadinstfunc","CRM",2,"Functions of the lead institution for critical risks","Lead risk institution",2016,"NO",1,5,3.3333333,"Government",11
+"crm_riskplanning","CRM",3,"HFA data on risk planning","Risk planning",2015,"NO",1,5,3.3333333,"Government",7
+"crm_multihazard","CRM",4,"HFA data on multi-hazard assessment","Multi-hazard",2015,"NO",1,5,3.3333333,"Government",5
+"crm_riskmonitoring","CRM",5,"HFA data on risk monitoring","Monitoring",2015,"NO",1,5,3.3333333,"Government",4
+"crm_riskmgmtcap","CRM",6,"Risk management capabilities","Risk management",2016,"NO",1,4,3.3333333,"Government",5
+"crm_preprdness","CRM",7,"HFA data on risk preparedness","Preparedness",2015,"NO",1,4,3.3333333,"Government",5
+"crm_econappraisal","CRM",8,"HFA data on economic appraisal","Apprisal",2015,"NO",1,4,3.3333333,"Government",6
+"crm_intlcoop","CRM",9,"HFA data on international cooperation","Int'l cooperation",2015,"NO",1,4,3.3333333,"Government",6
+"crm_communications","CRM",10,"Risk communications","Communication",2016,"NO",1,2,5,"Government",3
+"crm_earlywarn","CRM",11,"HFA data on early warning systems","Early Warning",2015,"NO",1,2,5,"Government",3
+"crm_evaluation","CRM",12,"Risk evaluation and research","Evaluation",2016,"NO",1,2,5,"Government",3
+"crm_postdisaster","CRM",13,"HFA data on post disaster assessment","Post-disaster",2015,"NO",1,2,5,"Government",3
+"dig_usr_busstart","DIG",1,"User centricity score for business start-up","UC business start-up",2016,"YES",1,5,2.5,"Expert",1
+"dig_usr_regbus","DIG",2,"User centricity score for regular business operations","UC regular business",2017,"YES",1,5,2.5,"Expert",1
+"dig_usr_family","DIG",3,"User centricity score for family life","UC family life",2016,"YES",1,5,2.5,"Expert",1
+"dig_usr_job","DIG",4,"User centricity score for losing and finding a job","UC lose/find a job",2016,"YES",1,5,2.5,"Expert",1
+"dig_usr_court","DIG",5,"User centricity score for small claims procedure","UC small claims",2017,"YES",1,5,2.5,"Expert",1
+"dig_key_busstart","DIG",6,"Key enablers for business start-up","KE business start-up",2016,"YES",1,5,2.5,"Expert",1
+"dig_key_regbus","DIG",7,"Key enablers for regular business operations","KE regular business",2017,"YES",1,5,2.5,"Expert",1
+"dig_key_family","DIG",8,"Key enablers for family life","KE family life",2016,"YES",1,5,2.5,"Expert",1
+"dig_key_job","DIG",9,"Key enablers for losing and finding a job","KE lose/find a job",2016,"YES",1,5,2.5,"Expert",1
+"dig_key_court","DIG",10,"Key enablers for small claims procedure","KE small claims",2017,"YES",1,5,2.5,"Expert",1
+"dig_mob_busstart","DIG",11,"Cross-border mobility for business start-up","CB business start-up",2016,"YES",1,3,5,"Expert",1
+"dig_mob_regbus","DIG",12,"Cross-border mobility for regular business operations","CB regular business",2017,"YES",1,3,5,"Expert",1
+"dig_mob_court","DIG",13,"Cross-border mobility for small claims procedure","CB small claims",2017,"YES",1,3,5,"Expert",1
+"ffm_efficiency","FFM",1,"Business executive perception of efficiency of public spending","Efficiency",2017,"NO",1,1,10,"Perception",1
+"ffm_openbudget","FFM",2,"Composite score on the openness of budgetary publications/processes","Open budgeting",2017,"NO",1,2.5,2,"Expert",1
+"ffm_fmis_approach","FFM",3,"Overall score on the FMIS approach taken by countries","Financial MI",2017,"NO",1,2.5,2,"Expert",1
+"ffm_pfpublish","FFM",4,"WB data on types of public finance data published","Published PF data",2017,"NO",1,5,2,"Expert",10
+"ffm_mterm_budget","FFM",5,"Index of medium-term budgeting practices","Medium-term budgeting",2012,"NO",1,2,2.5,"Government",1
+"ffm_perf_budget","FFM",6,"Index of performance-based budgeting practices","Performance budgeting",2016,"NO",1,2,2.5,"Government",1
+"hrm_skillsmerit","HRM",1,"Expert perceptions of whether skill and merit of candidates decides recruitment decisions","Skill and merit appointment",2015,"YES",1,4,2,"Expert",1
+"hrm_cnxt_pol","HRM",2,"Expert perceptions of whether political connections decide recruitment decisions","Political connections",2015,"YES",-1,4,2,"Expert",1
+"hrm_cnxt_pers","HRM",3,"Expert perceptions of whether personal connections decide recruitment decisions","Personal connections",2015,"YES",-1,4,2,"Expert",1
+"hrm_formalexam","HRM",4,"Expert perceptions of whether public employees are recruited through a formal exam","Formal exams",2015,"YES",1,4,2,"Expert",1
+"hrm_comp_salaries","HRM",5,"Expert perceptions of whether salaries of senior officials are comparable with private sector senior managers","Comparable salaries",2015,"YES",1,2,5,"Expert",1
+"hrm_perf_pay","HRM",6,"Index of the use of performance-related pay","Performance pay",2016,"NO",1,2,5,"Government",1
+"hrm_perf_assmnt","HRM",7,"Index of the use of performance assessment","Performance assessment",2016,"NO",1,2,5,"Government",1
+"hrm_scshr","HRM",8,"Index of the use of separate HR practices for the SCS","Separate SCS HRM",2016,"NO",1,2,5,"Government",1
+"hrm_hrdata","HRM",9,"Index of the use of data in HR administration","Use of data in HR",2016,"NO",1,1,10,"Government",1
+"inc_wmn_cgov","INC",1,"Proportion of women in central government	","Women in central government",2016,"NO",-1,4,1.3333333,"Statistic",1
+"inc_wmn_pubsec","INC",2,"Expert perceptions of the proportion of women in public employment","Women in public sector",2015,"YES",-1,4,1.3333333,"Expert",1
+"inc_wmn_snrmgr","INC",3,"Proportion of women in senior management in government	","Women in senior mgmt",2016,"NO",-1,4,1.3333333,"Statistic",1
+"inc_wmn_snrgovt","INC",4,"Expert perceptions of the proportion of women in senior government positions","Women in senior government",2015,"NO",-1,4,1.3333333,"Expert",1
+"inc_ethrel","INC",5,"Expert perceptions of whether ethnic and religious minorities are represented in the public workforce","Ethic and religious minorities",2015,"YES",1,1,4,"Expert",1
+"int_offcorrupt","INT",1,"Perception of whether officials are corrupt","Officials corrupt",2017,"NO",1,4,3.3333333,"Perception",1
+"int_busfav","INT",2,"Officials favour certain businesses","Favour businesses",2017,"YES",1,4,3.3333333,"Perception",1
+"int_embezzlefund","INT",3,"Officals embezzle/steal funds","Officials embezzle",2015,"YES",-1,4,3.3333333,"Expert",1
+"int_grantfavours","INT",4,"Officials grant favours for bribes","Favours for bribes",2015,"YES",-1,4,3.3333333,"Expert",1
+"int_fairtrtmnt","INT",5,"Officials treat people fairly","Fair treatment",2015,"YES",-1,2,8,"Expert",1
+"int_actimpartial","INT",6,"Officals act impartially","Act impartially",2015,"YES",1,2,8,"Expert",1
+"int_followrules","INT",7,"Officials follow rules","Follow rules",2015,"YES",1,2,8,"Expert",1
+"int_corruptn_prvnt","INT",8,"Corruption prevention","Corruption preventions",2018,"YES",1,2,8,"Expert",1
+"int_helpcitzens","INT",9,"Officials strive to help citizens","Help citizens",2015,"YES",1,3,8,"Expert",1
+"int_srvministers","INT",10,"Officials implement ministerial policies","Implement policies",2015,"YES",1,3,8,"Expert",1
+"int_srvgovt","INT",11,"Officials implement the government's programme","Implement programme",2015,"YES",1,3,8,"Expert",1
+"int_offsabsent","INT",12,"Officials are absent without leave","Unauthorised absence",2015,"YES",-1,2,8,"Expert",1
+"int_striveffcnt","INT",13,"Officials strive to be efficient","Strive for efficiency",2015,"YES",1,2,8,"Expert",1
+"int_postemp","INT",14,"Post-employment arrangements","Post-employment",2014,"NO",1,4,5,"Government",2
+"int_lobbying","INT",15,"Lobbyist protections","Lobbyist protection",2013,"NO",1,4,5,"Government",3
+"int_whstlcover","INT",16,"Coverage of whistleblower protections","Whistleblowing coverage",2014,"YES",1,4,5,"Government",6
+"int_whstlprtct","INT",17,"Whistleblower protection","Whistleblowing extent",2015,"YES",-1,4,5,"Expert",1
+"opn_cvcprticp","OPN",1,"Assessment of the effectiveness of civic participation mechanisms","Civic participation",2017,"NO",1,3,2.6666666,"Expert",1
+"opn_eparticp","OPN",2,"UN assessment of country e-participation methods","E-participation",2018,"NO",1,3,2.6666666,"Expert",1
+"opn_negpubsprt","OPN",3,"Expert perceptions of how government consults with societal actors","Consult societal actors",2015,"NO",1,3,2.6666666,"Expert",1
+"opn_complaints","OPN",4,"Assessment of whether people can bring specific complaints to the government","Complaint mechanisms",2017,"NO",1,1,8,"Expert",1
+"opn_impact","OPN",5,"Assessment of the political impact of open data policies and practice","Open data impact",2016,"NO",1,3,3.3333333,"Expert",1
+"opn_opendata","OPN",6,"Composite score from assessments of dataset published by the government","Open data extent",2016,"NO",1,3,3.3333333,"Other",1
+"opn_govdata","OPN",7,"Overall OURdata index score","Reusuble data",2016,"NO",1,3,3.3333333,"Government",1
+"opn_right2info","OPN",8,"Assessment of whether requests for information held by a government agency are properly granted","Right to information",2017,"NO",1,2,10,"Expert",1
+"opn_accessinfo","OPN",9,"Expert perceptions of whether citizens can obtain official documents/information","Access to information",2018,"NO",1,2,10,"Expert",1
+"opn_publiclaw","OPN",10,"Assessment of whether basic laws are publicised and quality of information published by the government","Published laws",2017,"NO",1,1,10,"Expert",1
+"pol_scholadvc","POL",1,"Expert perceptions of influence of non-governmental academics","Scholarly advices",2018,"NO",1,2,4,"Expert",1
+"pol_goexpert","POL",2,"Expert perceptions of expertise of the centre of government to review draft bills","Central expertise",2018,"NO",1,2,4,"Expert",1
+"pol_stratplan","POL",3,"Expert perceptions of influence of strategic planning units","Strategic planning",2018,"NO",1,1,4,"Expert",1
+"pol_mincoord","POL",4,"Expert perceptions of coordination of policy process","Policy coordination",2018,"NO",1,2,4,"Expert",1
+"pol_linemins","POL",5,"Expert perceptions of whether line ministries involve the centre of government in policy development","Central involvement",2018,"NO",1,2,4,"Expert",1
+"pol_monmins","POL",6,"Expert perceptions of whether the centre of governemnt monitors ministries","Monitoring ministries",2018,"NO",1,3,4,"Expert",1
+"pol_monagncs","POL",7,"Expert perceptions of whether ministries monitor their executive agencies","Monitoring agencies",2018,"NO",1,3,4,"Expert",1
+"pol_natstds","POL",8,"Expert perceptions of whether the national government ensures subnational entities follow national standards","National standards",2018,"NO",1,3,4,"Expert",1
+"pro_eproc_funcs","PRO",1,"E-procurement functionality","E-procurement",2016,"NO",1,3,2,"Government",9
+"pro_cpb_roles","PRO",2,"Roles of the CPB","Role of CPB",2016,"NO",1,3,2,"Government",4
+"pro_sme_support","PRO",3,"Processes or practices to support SMEs","Support for SMEs",2016,"NO",1,3,2,"Government",5
+"pro_admin_efctvns","PRO",4,"Assessment of the administrative effectiveness of central government procurement","Administration",2016,"YES",1,3,2,"Other",1
+"pro_transparency","PRO",5,"Assessment of the transparency of central government procurement","Transparency",2016,"YES",1,3,2,"Other",1
+"pro_integrity","PRO",6,"Assessment of the integrity of central government procurement","Integrity",2016,"YES",1,3,2,"Other",1
+"reg_ria_use","REG",1,"Expert perceptions of whether RIAs are used","Use of RIAs in govt",2018,"NO",1,5,2,"Expert",1
+"reg_ria_primary","REG",2,"Use of RIAs for primary legislation","RIAs for primary law",2017,"NO",1,5,2,"Government",1
+"reg_ria_secondary","REG",3,"Use of RIAs for secondary legislation","RIAs for secondary law",2017,"NO",1,5,2,"Government",1
+"reg_eval_primary","REG",4,"Use of evaluation for primary legislation","Evaluation for primary law",2017,"NO",1,5,2,"Government",1
+"reg_eval_secondary","REG",5,"Use of evaluation for secondary legislation","Evaluation for secondary law",2017,"NO",1,5,2,"Government",1
+"reg_engmnt_primary","REG",6,"Extent of stakeholder engagement in primary legislation","Stakeholders for primary law",2017,"NO",1,2,4,"Government",1
+"reg_engmnt_secondary","REG",7,"Extent of stakeholder engagement in secondary legislation","Stakeholders for secondary law",2017,"NO",1,2,4,"Government",1
+"reg_ria_qual","REG",8,"Expert perceptions of the quality of RIAs","Quality of RIAs",2018,"NO",1,2,4,"Expert",1
+"reg_ria_check","REG",9,"Expert perceptions of whether RIAs involve sustainability checks","Sustainability checks",2018,"NO",1,2,4,"Expert",1
+"tax_adminbudget","TAX",1,"Total recurrent administrative budget as proportion of net revenue","Administration",2015,"NO",-1,2,3,"Statistic",1
+"tax_debt_total","TAX",2,"Total tax debt as proportion of net revenue","Tax debt",2015,"NO",-1,2,3,"Statistic",1
+"tax_timetopay","TAX",3,"World Bank estimate of the average time taken by business to prepare tax returns","Time to pay",2017,"NO",-1,1,3,"Statistic",1
+"tax_ptr_online","TAX",4,"Personal income tax returns: online","Online personal returns",2015,"NO",1,3,3,"Statistic",1
+"tax_ctr_online","TAX",5,"Corporation tax returns: online","Online corporate returns",2015,"NO",1,3,3,"Statistic",1
+"tax_vatr_online","TAX",6,"VAT returns: online","Online VAT returns",2015,"NO",1,3,3,"Statistic",1
+"xim_cap_uised","XIM",NA,"UNESCO statistics on tertiary educational attainment of the population aged 25+",NA,NA,NA,1,NA,NA,"Statistic",1
+"xim_dig_unosi","XIM",NA,"UN assessment of country online public services",NA,2018,NA,1,NA,NA,"Expert",1
+"cc_iso3c","XXC",NA,"ISO 3-character alphanumeric country code",NA,NA,NA,NA,NA,NA,"Other",1
+"cc_name","XXC",NA,"ISO country name",NA,NA,NA,NA,NA,NA,"Other",1
+"inc_xxc_womenpop","XXC",NA,"Women as a proportion of the economically active population (aged 15+)",NA,2015,NA,1,NA,NA,"Statistic",1
+"tax_xxc_ctr_total","XXC",NA,"Corporation tax returns: total",NA,NA,NA,1,NA,NA,"Statistic",1
+"tax_xxc_netrev","XXC",NA,"Net revenue collected by the tax adinistration",NA,NA,NA,1,NA,NA,"Statistic",1
+"tax_xxc_ptr_total","XXC",NA,"Personal income tax returns: online",NA,NA,NA,1,NA,NA,"Statistic",1
+"tax_xxc_vatr_total","XXC",NA,"VAT returns: online",NA,NA,NA,1,NA,NA,"Statistic",1
+"xxc_cg_expend","XXC",NA,"World Bank estimate of central government expenditure as proportion of GDP",NA,2016,NA,1,NA,NA,"Statistic",1
+"xxc_cgov_pser","XXC",NA,"Central government employment as a proportion of total employment",NA,NA,NA,1,NA,NA,"Statistic",1
+"xxc_cgov_rate","XXC",NA,"Central government employment as a proportion of total employment",NA,NA,NA,1,NA,NA,"Statistic",1
+"xxc_gdp_pcap","XXC",NA,"World Bank estimate of GDP per capita",NA,2017,NA,1,NA,NA,"Statistic",1
+"xxc_gdp_pcpp","XXC",NA,"World Bank estimate of GDP per capita, purchasing power parity",NA,2017,NA,1,NA,NA,"Statistic",1
+"xxc_ggov_pser","XXC",NA,"General government employment as a proportion of public sector employment",NA,NA,NA,1,NA,NA,"Statistic",1
+"xxc_ggov_rate","XXC",NA,"General government employment as a proportion of total employment",NA,NA,NA,1,NA,NA,"Statistic",1
+"xxc_cap_piaac_count","XXC",NA,"Count of public administration observations in underlying PIAAC data",NA,NA,NA,1,NA,NA,"Other",0
+"xxc_pse_rate","XXC",NA,"Public sector employment as a proportion of total employment",NA,NA,NA,1,NA,NA,"Statistic",1

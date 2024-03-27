@@ -1,0 +1,222 @@
+ï»¿"variable","source","metric","aggregation","ref_yr","description","indicator","countries"
+"gcb_officials_corrupt","GCB_2017","int_offcorrupt","unique","2017","Percent saying that say none/some government officials involved in corruption","INT",117
+"ilo_women_lf_rate","ILO_2015_WEMP","inc_xxc_womenpop","diff","2015","Women as a proportion of the economically active population (aged 15+)","XXC",114
+"ilo_pse_rate","ILO_9999_SECT","xxc_pse_rate","unique","Various (2009-2017)","Public sector employment as a proportion of total employment","XXC",115
+"ilo_ggov_rate","ILO_9999_GEMP","xxc_ggov_rate","unique","Various (2007-2017)","General government employment as a proportion of total employment","XXC",40
+"ilo_cgov_rate","ILO_9999_GEMP","xxc_cgov_rate","unique","Various (2007-2017)","Central government employment as a proportion of total employment","XXC",27
+"ilo_ggov_pser","ILO_9999_GEMP","xxc_ggov_pser","unique","Various (2007-2017)","General government employment as a proportion of public sector employment","XXC",58
+"ilo_cgov_pser","ILO_9999_GEMP","xxc_cgov_pser","unique","Various (2007-2017)","Central government employment as a proportion of total employment","XXC",36
+"wef_busfav","WEF_2017","int_busfav","unique","2017","Business executive perception of whether officials favour certain businesses","INT",136
+"wef_pubspend","WEF_2017","ffm_efficiency","unique","2017","Business executive perception of efficiency of public spending","FFM",136
+"qog_skillsmerit","QOG_2015","hrm_skillsmerit","unique","2015","Expert perceptions of whether skill and merit of candidates decides recruitment decisions","HRM",119
+"qog_poltclcnct","QOG_2015","hrm_cnxt_pol","unique","2015","Expert perceptions of whether political connections decide recruitment decisions","HRM",119
+"qog_persnlcnct","QOG_2015","hrm_cnxt_pers","unique","2015","Expert perceptions of whether personal connections decide recruitment decisions","HRM",119
+"qog_recruitexam","QOG_2015","hrm_formalexam","unique","2015","Expert perceptions of whether public employees are recruited through a formal exam","HRM",115
+"qog_snrsalaries","QOG_2015","hrm_comp_salaries","unique","2015","Expert perceptions of whether salaries of senior officials are comparable with private sector senior managers","HRM",115
+"qog_offsabsent","QOG_2015","int_offsabsent","unique","2015","Expert perceptions of whether public employees are absent without permission","INT",112
+"qog_ethrelmin","QOG_2015","inc_ethrel","unique","2015","Expert perceptions of wether ethnic and religious minorities are represented in the public workforce","INC",113
+"qog_fairtrtmnt","QOG_2015","int_fairtrtmnt","unique","2015","Expert perceptions of whether public employees treat some groups unfairly","INT",115
+"qog_striveffcnt","QOG_2015","int_striveffcnt","unique","2015","Expert perceptions of whether public employees strive to be efficient","INT",115
+"qog_helpcitzens","QOG_2015","int_helpcitzens","unique","2015","Expert perceptions of whether public employees strive to help citizens","INT",114
+"qog_followrules","QOG_2015","int_followrules","unique","2015","Expert perceptions of whether public employees follow rules","INT",114
+"qog_srvministers","QOG_2015","int_srvministers","unique","2015","Expert perceptions of whether public employees implement policies decided by ministers","INT",114
+"qog_srvgovt","QOG_2015","int_srvgovt","unique","2015","Expert perceptions of whether public employees implement the the government's programme","INT",115
+"qog_wmnpubsec","QOG_2015","inc_wmn_pubsec","diff","2015","Expert perceptions of the proportion of women in public employment","INC",112
+"qog_wmnsnrgovt","QOG_2015","inc_wmn_snrgovt","diff","2015","Expert perceptions of the proportion of women in senior government positions","INC",113
+"qog_actimpartial","QOG_2015","int_actimpartial","unique","2015","Expert perceptions of whether public employees act impartially","INT",116
+"qog_grantfavours","QOG_2015","int_grantfavours","unique","2015","Expert perceptions of whether public employees grant favours in return for bribes","INT",116
+"qog_embezzlefund","QOG_2015","int_embezzlefund","unique","2015","Expert perceptions of whether public employees steal/embezzle or misappropriate state funds/resources","INT",116
+"qog_whstlprtct","QOG_2015","int_whstlprtct","unique","2015","Expert perceptions of whether public officials face negative consequences for whistleblowing to media","INT",115
+"sgi_accessinfo","SGI_2018","opn_accessinfo","unique","2018","Expert perceptions of whether citizens can obtain official documents/information","OPN",41
+"sgi_corruption","SGI_2018","int_corruptn_prvnt","unique","2018","Expert perceptions of corruption prevention efforts","INT",41
+"sgi_stratplan","SGI_2018","pol_stratplan","unique","2018","Expert perceptions of influence of strategic planning units","POL",41
+"sgi_scholadvc","SGI_2018","pol_scholadvc","unique","2018","Expert perceptions of influence of non-governmental academics","POL",41
+"sgi_goexpert","SGI_2018","pol_goexpert","unique","2018","Expert perceptions of expertise of the centre of government to review draft bills","POL",41
+"sgi_linemins","SGI_2018","pol_linemins","unique","2018","Expert perceptions of whether line ministries involve the centre of government in policy development","POL",41
+"sgi_mincoord","SGI_2018","pol_mincoord","unique","2018","Expert perceptions of coordination of policy process","POL",41
+"sgi_riause","SGI_2018","reg_ria_use","unique","2018","Expert perceptions of whether RIAs are used","REG",41
+"sgi_riaqual","SGI_2018","reg_ria_qual","unique","2018","Expert perceptions of the quality of RIAs","REG",41
+"sgi_riacheck","SGI_2018","reg_ria_check","unique","2018","Expert perceptions of whether RIAs involve sustainability checks","REG",41
+"sgi_negpubsprt","SGI_2018","opn_negpubsprt","unique","2018","Expert perceptions of how government consults with societal actors","OPN",41
+"sgi_monmins","SGI_2018","pol_monmins","unique","2018","Expert perceptions of whether the centre of governemnt monitors ministries","POL",41
+"sgi_monagncs","SGI_2018","pol_monagncs","unique","2018","Expert perceptions of whether ministries monitor their executive agencies","POL",41
+"sgi_natstds","SGI_2018","pol_natstds","unique","2018","Expert perceptions of whether the national government ensures subnational entities follow national standards","POL",41
+"ibp_openbudget","IBP_2017","ffm_openbudget","unique","2017","Composite score on the openness of budgetary publications/processes","FFM",115
+"oki_opendataindex","OKI_2016","opn_opendata","unique","2016","Composite score from assessments of dataset published by the government","OPN",92
+"un_eparticipate","UN_2018_EGOV","opn_eparticp","unique","2018","UN assessment of country e-participation methods","OPN",193
+"un_egovonlnsrv","UN_2018_EGOV","xim_dig_unosi","unique","2018","UN assessment of country online public services","XIM",193
+"uis_eduattain","UN_9999_EDAT","xim_cap_uised","unique","Various (2011-2016)","UNESCO statistics on tertiary educational attainment of the population aged 25+","XIM",96
+"hfa_riskplan1","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: Is disaster risk taken into account in public investment and planning decisions?","CRM",95
+"hfa_riskplan2","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: National development plan","CRM",95
+"hfa_riskplan3","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: Sector strategies and plans","CRM",95
+"hfa_riskplan4","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: Climate change policy and strategy","CRM",95
+"hfa_riskplan5","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: Poverty reduction strategy papers","CRM",95
+"hfa_riskplan6","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: CCA/ UNDAF (Common Country Assessment/ UN Development Assistance Framework)","CRM",95
+"hfa_riskplan7","UN_2015_HFAM","crm_riskplanning","sum","2015","HFA PA1-C1: Civil defence policy, strategy and contingency planning","CRM",95
+"hfa_multihaz1","UN_2015_HFAM","crm_multihazard","sum","2015","HFA PA2-C1: Multi-hazard risk assessment","CRM",95
+"hfa_multihaz2","UN_2015_HFAM","crm_multihazard","sum","2015","HFA PA2-C1: Gender disaggregated vulnerability and capacity assessments","CRM",95
+"hfa_multihaz3","UN_2015_HFAM","crm_multihazard","sum","2015","HFA PA2-C1: Agreed national standards for multi hazard risk assessments","CRM",95
+"hfa_multihaz4","UN_2015_HFAM","crm_multihazard","sum","2015","HFA PA2-C1: Common format for risk assessment","CRM",95
+"hfa_multihaz5","UN_2015_HFAM","crm_multihazard","sum","2015","HFA PA2-C1: Is future/probable risk assessed?","CRM",95
+"hfa_riskmon1","UN_2015_HFAM","crm_riskmonitoring","sum","2015","HFA PA2-C2: Are disaster losses and hazards systematically reported, monitored and analyzed?","CRM",95
+"hfa_riskmon2","UN_2015_HFAM","crm_riskmonitoring","sum","2015","HFA PA2-C2: Disaster loss databases exist and are regularly updated","CRM",95
+"hfa_riskmon3","UN_2015_HFAM","crm_riskmonitoring","sum","2015","HFA PA2-C2: Reports generated and used in planning by finance, planning and sectoral line ministries (from the disaster databases/ information systems)","CRM",95
+"hfa_riskmon4","UN_2015_HFAM","crm_riskmonitoring","sum","2015","HFA PA2-C2: Hazards are consistently monitored across localities and territorial boundaries","CRM",95
+"hfa_preprdns1","UN_2015_HFAM","crm_preprdness","sum","2015","HFA PA5-C1: Are future disaster risks anticipated through scenario development and aligned preparedness planning?","CRM",95
+"hfa_preprdns2","UN_2015_HFAM","crm_preprdness","sum","2015","HFA PA5-C1: Are there national programmes or policies for disaster preparedness, contingency planning and response?","CRM",95
+"hfa_preprdns3","UN_2015_HFAM","crm_preprdness","sum","2015","HFA PA5-C1: The institutional mechanisms exist for the rapid mobilisation of resources in a disaster, utilising civil society and the private sector; in addition to public sector support.","CRM",95
+"hfa_preprdns4","UN_2015_HFAM","crm_preprdness","sum","2015","HFA PA5-C1: Preparedness plans are regularly updated based on future risk scenarios","CRM",95
+"hfa_preprdns5","UN_2015_HFAM","crm_preprdness","sum","2015","HFA PA5-C2: Risk management/contingency plans for continued basic service delivery","CRM",95
+"hfa_econaprsl1","UN_2015_HFAM","crm_econappraisal","sum","2015","HFA PA4-C3: Are the costs and benefits of DRR incorporated into the planning of public investment?","CRM",95
+"hfa_econaprsl2","UN_2015_HFAM","crm_econappraisal","sum","2015","HFA PA4-C6: Are the impacts of disaster risk that are created by major development projects assessed?","CRM",95
+"hfa_econaprsl3","UN_2015_HFAM","crm_econappraisal","sum","2015","HFA PA4-C6: Are cost/benefits of disaster risk taken into account in the design and operation of major development projects?","CRM",95
+"hfa_econaprsl4","UN_2015_HFAM","crm_econappraisal","sum","2015","HFA PA4-C6: Impacts of disaster risk taken account in Environment Impact Assessment (EIA)","CRM",95
+"hfa_econaprsl5","UN_2015_HFAM","crm_econappraisal","sum","2015","HFA PA4-C6: By national and sub-national authorities and institutions","CRM",95
+"hfa_econaprsl6","UN_2015_HFAM","crm_econappraisal","sum","2015","HFA PA4-C6: By international development actors","CRM",95
+"hfa_intlcoop1","UN_2015_HFAM","crm_intlcoop","sum","2015","HFA PA2-C4: Does your country participate in regional or sub-regional actions to reduce disaster risk?","CRM",95
+"hfa_intlcoop2","UN_2015_HFAM","crm_intlcoop","sum","2015","HFA PA2-C4: Establishing and maintaining regional hazard monitoring","CRM",95
+"hfa_intlcoop3","UN_2015_HFAM","crm_intlcoop","sum","2015","HFA PA2-C4: Regional or sub-regional risk assessment","CRM",95
+"hfa_intlcoop4","UN_2015_HFAM","crm_intlcoop","sum","2015","HFA PA2-C4: Regional or sub-regional early warning","CRM",95
+"hfa_intlcoop5","UN_2015_HFAM","crm_intlcoop","sum","2015","HFA PA2-C4: Establishing and implementing protocols for transboundary information sharing","CRM",95
+"hfa_intlcoop6","UN_2015_HFAM","crm_intlcoop","sum","2015","HFA PA2-C4: Establishing and resourcing regional and sub-regional strategies and frameworks","CRM",95
+"hfa_earlywarn1","UN_2015_HFAM","crm_earlywarn","sum","2015","HFA PA2-C3: Do risk prone communities receive timely and understandable warnings of impending hazard events?","CRM",95
+"hfa_earlywarn2","UN_2015_HFAM","crm_earlywarn","sum","2015","HFA PA2-C3: Communication systems and protocols used and applied","CRM",95
+"hfa_earlywarn3","UN_2015_HFAM","crm_earlywarn","sum","2015","HFA PA2-C3: Active involvement of media in early warning dissemination","CRM",95
+"hfa_postdisas1","UN_2015_HFAM","crm_postdisaster","sum","2015","HFA PA5-C4: Damage and loss assessment methodologies and capacities available","CRM",95
+"hfa_postdisas2","UN_2015_HFAM","crm_postdisaster","sum","2015","HFA PA5-C4: Post-disaster need assessment methodologies","CRM",95
+"hfa_postdisas3","UN_2015_HFAM","crm_postdisaster","sum","2015","HFA PA5-C4: Post-disaster needs assessment methodologies include guidance on gender aspects","CRM",95
+"fmis_score","WB_2017_FMIS","ffm_fmis_approach","unique","2017","Overall score on the FMIS approach taken by countries","FFM",197
+"fmis_pfpub01","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: consolidated budget execution results for the public sector?","FFM",197
+"fmis_pfpub02","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: sector analysis?","FFM",197
+"fmis_pfpub03","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: regional analysis?","FFM",197
+"fmis_pfpub04","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: gender analysis?","FFM",197
+"fmis_pfpub05","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: budget analysis with special emphasis towards children and youth?","FFM",197
+"fmis_pfpub06","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: debt data?","FFM",197
+"fmis_pfpub07","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: foreign aid data?","FFM",197
+"fmis_pfpub08","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: fiscal data on sub-national/ local governments and municipalities?","FFM",197
+"fmis_pfpub09","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: financial statements?","FFM",197
+"fmis_pfpub10","WB_2017_FMIS","ffm_pfpublish","sum","2017","PF info published: public procurement and contracts for the whole government?","FFM",197
+"db_timetopay","WB_2017_DBUS","tax_timetopay","unique","2016","World Bank estimate of the average time taken by business to prepare tax returns","TAX",212
+"odb_polimpact","W3F_2016","opn_impact","unique","2016","Assessment of the political impact of open data policies and practice","OPN",115
+"rli_cvcprticp","WJP_2017","opn_cvcprticp","unique","2017","Assessment of the effectiveness of civic participation mechanisms","OPN",113
+"rli_complaints","WJP_2017","opn_complaints","unique","2017","Assessment of whether people can bring specific complaints to the government","OPN",113
+"rli_right2info","WJP_2017","opn_right2info","unique","2017","Assessment of whether requests for information held by a government agency are properly granted","OPN",113
+"rli_publiclaw","WJP_2017","opn_publiclaw","unique","2017","Assessment of whether basic laws are publicised and quality of information published by the government","OPN",113
+"wb_gdpcap","WB_9999_GDPC","xxc_gdp_pcap","unique","2017","World Bank estimate of GDP per capita","XXC",187
+"wb_gdpcap_pp","WB_9999_GDPC","xxc_gdp_pcpp","unique","2017","World Bank estimate of GDP per capita, purchasing power parity","XXC",184
+"wb_cgxpend","WB_9999_CGOV","xxc_cg_expend","unique","2016","World Bank estimate of central government expenditure as proportion of GDP","XXC",109
+"egb_usr_busstart","EC_2018_EGOV","dig_usr_busstart","unique","2018","User centricity score for business start-up","DIG",34
+"egb_usr_regbus","EC_2018_EGOV","dig_usr_regbus","unique","2017","User centricity score for regular business operations","DIG",34
+"egb_usr_family","EC_2018_EGOV","dig_usr_family","unique","2018","User centricity score for family life","DIG",34
+"egb_usr_job","EC_2018_EGOV","dig_usr_job","unique","2018","User centricity score for losing and finding a job","DIG",34
+"egb_usr_court","EC_2018_EGOV","dig_usr_court","unique","2017","User centricity score for small claims procedure","DIG",34
+"egb_key_busstart","EC_2018_EGOV","dig_key_busstart","unique","2018","Key enablers for business start-up","DIG",34
+"egb_key_regbus","EC_2018_EGOV","dig_key_regbus","unique","2017","Key enablers for regular business operations","DIG",34
+"egb_key_family","EC_2018_EGOV","dig_key_family","unique","2018","Key enablers for family life","DIG",34
+"egb_key_job","EC_2018_EGOV","dig_key_job","unique","2017","Key enablers for losing and finding a job","DIG",34
+"egb_key_court","EC_2018_EGOV","dig_key_court","unique","2017","Key enablers for small claims procedure","DIG",34
+"egb_mob_busstart","EC_2018_EGOV","dig_mob_busstart","unique","2018","Cross-border mobility for business start-up","DIG",34
+"egb_mob_regbus","EC_2018_EGOV","dig_mob_regbus","unique","2017","Cross-border mobility for","DIG",34
+"egb_mob_court","EC_2018_EGOV","dig_mob_court","unique","2017","Cross-border mobility for small claims procedure","DIG",34
+"ot_admin_efctvns","OT_2016","pro_admin_efctvns","unique","2016","Assessment of the administrative effectiveness of central government procurement","PRO",31
+"ot_integrity","OT_2016","pro_integrity","unique","2016","Assessment of the integrity of central government procurement","PRO",31
+"ot_transparency","OT_2016","pro_transparency","unique","2016","Assessment of the transparency of central government procurement","PRO",31
+"oecd_pp_eproc_pubplans","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: Publishing procurement plans","PRO",33
+"oecd_pp_eproc_pubopps","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: Publication of opportunities","PRO",33
+"oecd_pp_eproc_anctends","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: Announcing tenders","PRO",33
+"oecd_pp_eproc_onlinecat","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: Online catalogue","PRO",33
+"oecd_pp_eproc_tenddocs","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: Provision of tender documents","PRO",33
+"oecd_pp_eproc_esubbid","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: E-submission of bids","PRO",33
+"oecd_pp_eproc_erevauc","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: E-reverse auctions","PRO",33
+"oecd_pp_eproc_notifyaward","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: Notification of award","PRO",33
+"oecd_pp_eproc_esubinvc","OECD_2016_PROC","pro_eproc_funcs","sum","2016","E-procurement functions: E-submission of invoices","PRO",33
+"oecd_pp_cpb_mngfrmwk","OECD_2016_PROC","pro_cpb_roles","sum","2016","CPBs award framework agreements or other consolidated instruments, from which CAs then order","PRO",33
+"oecd_pp_cpb_aggregate","OECD_2016_PROC","pro_cpb_roles","sum","2016","CPBs award framework agreements or other consolidated instruments, from which CAs then order","PRO",33
+"oecd_pp_cpb_estbpolicy","OECD_2016_PROC","pro_cpb_roles","sum","2016","CPBs act as CAs aggregating demand and purchasing","PRO",33
+"oecd_pp_cpb_coordtrain","OECD_2016_PROC","pro_cpb_roles","sum","2016","CPBs co-ordinate training for public officials in charge of public procurement","PRO",33
+"oecd_pp_sme_spclunit","OECD_2016_PROC","pro_sme_support","sum","2016","CPBs award framework agreements or other consolidated instruments, from which CAs then order","PRO",33
+"oecd_pp_sme_training","OECD_2016_PROC","pro_sme_support","sum","2016","CPBs act as CAs aggregating demand and purchasing","PRO",33
+"oecd_pp_sme_onlinedocs","OECD_2016_PROC","pro_sme_support","sum","2016","CPBs co-ordinate training for public","PRO",33
+"oecd_pp_sme_contractlots","OECD_2016_PROC","pro_sme_support","sum","2016","officials in charge of public procurement","PRO",33
+"oecd_pp_sme_adminsimplf","OECD_2016_PROC","pro_sme_support","sum","2016","CPBs establish policies for CAs","PRO",33
+"gcr_approach_natstrat","OECD_2016_RISK","crm_approach","sum","2016","Does your government have a national strategy for the management of critical risks?","CRM",38
+"gcr_approach_allhaz","OECD_2016_RISK","crm_approach","sum","2016","Does your government‰Ûªs national strategy adopt an all-hazards approach to risk?","CRM",38
+"gcr_approach_leadinst","OECD_2016_RISK","crm_approach","sum","2016","Does your government have an institution that is assigned leadership at the national level for the management of critical risks","CRM",38
+"gcr_approach_ldinstrep","OECD_2016_RISK","crm_approach","sum","2016","Does the lead institution on the management of critical risks report to the centre of government?","CRM",38
+"gcr_approach_ldinstcog","OECD_2016_RISK","crm_approach","sum","2016","Does the lead institution prepare a report on its functions to the Head of Government and/or a Cabinet level minister?","CRM",38
+"gcr_approach_consult","OECD_2016_RISK","crm_approach","sum","2016","Does the institution consult with a variety of stakeholders in the policy-formulation process for the management of critical risks?","CRM",38
+"gcr_approach_monitor","OECD_2016_RISK","crm_approach","sum","2016","Does your government have a mechanism for monitoring unexpected events in order to quickly build situation awareness about critical riss once they actually occur?","CRM",38
+"gcr_ldinst_design","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: design/ formulate risk management policies","CRM",38
+"gcr_ldinst_priorities","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: set priorities and allocate resources accordingly","CRM",38
+"gcr_ldinst_targets","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: set performance targets","CRM",38
+"gcr_ldinst_incentives","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: provide incentives for policy implementation","CRM",38
+"gcr_ldinst_monpolicy","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: monitor policy implementation","CRM",38
+"gcr_ldinst_evalpolicy","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: evaluate policy implementation","CRM",38
+"gcr_ldinst_disemeval","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: disseminate results of evaluation to the public","CRM",38
+"gcr_ldinst_polcohernc","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: promote policy coherence across government departments","CRM",38
+"gcr_ldinst_competing","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: address competing policy objectives","CRM",38
+"gcr_ldinst_coordlocal","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: coordinate actions across central and local level of government","CRM",38
+"gcr_ldinst_cordnongov","OECD_2016_RISK","crm_leadinstfunc","sum","2016","Lead risk mgmt institution functions: coordinate cooperation between government and non-governmental entities","CRM",38
+"gcr_rmcap_anticipation","OECD_2016_RISK","crm_riskmgmtcap","sum","2016","Does your government undertake efforts to develop risk anticipation capacity","CRM",38
+"gcr_rmcap_mitigation","OECD_2016_RISK","crm_riskmgmtcap","sum","2016","Does your government‰Ûªs national strategy for the management of critical risks promote measures to enhance risk prevention and mitigation?","CRM",38
+"gcr_rmcap_critinfra","OECD_2016_RISK","crm_riskmgmtcap","sum","2016","Does your government have a critical infrastructure protection programme (CIP)?","CRM",38
+"gcr_rmcap_agncycoop","OECD_2016_RISK","crm_riskmgmtcap","sum","2016","Are inter-agency cooperation mechanisms built into your government's crisis management system?","CRM",38
+"gcr_rmcap_privatesectr","OECD_2016_RISK","crm_riskmgmtcap","sum","2016","Does your government encourage the private sector to take steps to ensure business continuity?","CRM",38
+"gcr_comms_wholesocty","OECD_2016_RISK","crm_communications","sum","2016","Does your government encourage a whole-of-society approach to risk communication?","CRM",38
+"gcr_comms_cmncteval","OECD_2016_RISK","crm_communications","sum","2016","Has your government communicated the results of any such evaluations to the public in past?","CRM",38
+"gcr_comms_pubassmnt","OECD_2016_RISK","crm_communications","sum","2016","Does your government make information that is used for the assessment of critical risks available to the public?","CRM",38
+"gcr_eval_conducted","OECD_2016_RISK","crm_evaluation","sum","2016","Has your government conducted a post-disaster evaluation of policies that are designed to support the management of critical risks within the last three years?","CRM",38
+"gcr_eval_useindesign","OECD_2016_RISK","crm_evaluation","sum","2016","Have the results from such evaluations been used in the design of revised risk management policies?","CRM",38
+"gcr_eval_sciresearch","OECD_2016_RISK","crm_evaluation","sum","2016","Does your government provide support for scientific research that is meant to improve policies for the management of critical risks?","CRM",38
+"tas_netrev","OECD_2015_TAXS","tax_xxc_netrev","special","2015","Net revenue collected by the tax adinistration","TAX",54
+"tas_budget","OECD_2015_TAXS","tax_adminbudget","special","2015","Total recurrent budget","TAX",51
+"tas_ctr_online","OECD_2015_TAXS","tax_ctr_online","special","2015","Corporation tax returns: online","TAX",42
+"tas_ctr_total","OECD_2015_TAXS","tax_xxc_ctr_total","special","2015","Corporation tax returns: total","TAX",42
+"tas_ptr_online","OECD_2015_TAXS","tax_ptr_online","special","2015","Personal income tax returns: online","TAX",43
+"tas_ptr_total","OECD_2015_TAXS","tax_xxc_ptr_total","special","2015","Personal income tax returns: online","TAX",43
+"tas_vatr_online","OECD_2015_TAXS","tax_vatr_online","special","2015","VAT returns: online","TAX",39
+"tas_vatr_total","OECD_2015_TAXS","tax_xxc_vatr_total","special","2015","VAT returns: online","TAX",39
+"tas_taxdebt","OECD_2015_TAXS","tax_debt_total","special","2015","Total tax debt","TAX",54
+"ireg_ria_primary","OECD_2017_IREG","reg_ria_primary","unique","2017","Use of RIAs for primary legislation","REG",33
+"ireg_ria_secondary","OECD_2017_IREG","reg_ria_secondary","unique","2017","Use of RIAs for secondary legislation","REG",34
+"ireg_eval_primary","OECD_2017_IREG","reg_eval_primary","unique","2017","Use of evaluation for primary legislation","REG",34
+"ireg_eval_secondary","OECD_2017_IREG","reg_eval_secondary","unique","2017","Use of evaluation for secondary legislation","REG",34
+"ireg_engmnt_primary","OECD_2017_IREG","reg_engmnt_primary","unique","2017","Extent of stakeholder engagement in primary legislation","REG",33
+"ireg_engmnt_secondary","OECD_2017_IREG","reg_engmnt_secondary","unique","2017","Extent of stakeholder engagement in secondary legislation","REG",33
+"oecd_medtermbudget","OECD_2012_MBUD","ffm_mterm_budget","unique","2012","Index of medium-term budgeting practices","FFM",33
+"oecd_perfbudget","OECD_2016_PBUD","ffm_perf_budget","unique","2016","Index of performance-based budgeting practices","FFM",33
+"oecd_ourdata","OECD_2016_DATA","opn_govdata","unique","2016","Overall OURdata index score","OPN",32
+"oecd_hrm_pfass","OECD_2016_SHRM_PERF","hrm_perf_assmnt","unique","2016","Index of the use of performance assessment","HRM",38
+"oecd_hrm_pfpay","OECD_2016_SHRM_PPAY","hrm_perf_pay","unique","2016","Index of the use of performance-related pay","HRM",38
+"oecd_hrm_scshr","OECD_2016_SHRM_SCS","hrm_scshr","unique","2016","Index of the use of separate HR practices for the SCS","HRM",38
+"oecd_hrm_hrdata","OECD_2016_SHRM_DATA","hrm_hrdata","unique","2016","Index of the use of data in HR administration","HRM",38
+"oecd_women_cgov","OECD_2016_WGOV","inc_wmn_cgov","diff","2016","Proportion of women in central government	","INC",34
+"oecd_women_snrmgr","OECD_2016_WGOV","inc_wmn_snrmgr","diff","2016","Proportion of women in senior management in government	","INC",31
+"oecd_postemp_scs","OECD_2014_PEMP","int_postemp","special","2014","Post-employment arrangements for the senior civil servants","INT",36
+"oecd_postemp_cs","OECD_2014_PEMP","int_postemp","special","2014","Post-employment arrangements for ordinary civil servants","INT",36
+"oecd_lobby_balance","OECD_2013_LOBY","int_lobbying","sum","2013","Requirement for balanced composition of advisory groups","INT",26
+"oecd_lobby_lbbystpers","OECD_2014_WSTL","int_lobbying","sum","2013","Lobbyists (not) allowed to sit on advisory groups in personal capacity","INT",26
+"oecd_lobby_corpexecpers","OECD_2014_WSTL","int_lobbying","sum","2013","Corporate executives (not) allowed to sit on advisory groups in personal capacity","INT",26
+"oecd_whstl_employees","OECD_2014_WSTL","int_whstlcover","sum","2014","Whistleblower coverage: public sector employees","INT",30
+"oecd_whstl_consultants","OECD_2014_WSTL","int_whstlcover","sum","2014","Whistleblower coverage: consultants working for the public sector","INT",30
+"oecd_whstl_suppliers","OECD_2014_WSTL","int_whstlcover","sum","2014","Whistleblower coverage: public sector suppliers","INT",30
+"oecd_whstl_tempempls","OECD_2014_WSTL","int_whstlcover","sum","2014","Whistleblower coverage: public sector temporary employees","INT",30
+"oecd_whstl_frmrempls","OECD_2014_WSTL","int_whstlcover","sum","2014","Whistleblower coverage: former public sector employees","INT",30
+"oecd_whstl_volunteers","OECD_2014_WSTL","int_whstlcover","sum","2014","Whistleblower coverage: people volunteering for the public sector","INT",30
+"piaac_count","OECD_2012_SKIL","xxc_cap_piacc_count","unique","2012-2015","Count of public administration observations","XXC",31
+"piaac_litscore","OECD_2012_SKIL","cap_litscore","unique","2012-2015","Literacy competency score","CAP",31
+"piaac_numscore","OECD_2012_SKIL","cap_numscore","unique","2012-2015","Numeracy competency score","CAP",31
+"piaac_pslscore","OECD_2012_SKIL","cap_pslscore","unique","2012-2015","Problem solving competency score","CAP",27
+"piaac_tertedu","OECD_2012_SKIL","cap_tertedu","unique","2012-2015","Proportion with tertiary education","CAP",31
+"piaac_ictwork","OECD_2012_SKIL","cap_ictwork","unique","2012-2015","Index of ICT use at work","CAP",31
+"piaac_numwork","OECD_2012_SKIL","cap_numwork","unique","2012-2015","Index of numeracy skills at work","CAP",31
+"piaac_readwork","OECD_2012_SKIL","cap_readwork","unique","2012-2015","Index of reading skills at work","CAP",31
+"piaac_writwork","OECD_2012_SKIL","cap_writwork","unique","2012-2015","Index of writing skills at work","CAP",31
+"piaac_influence","OECD_2012_SKIL","cap_influence","unique","2012-2015","Index of influencing skills at work","CAP",31
+"piaac_planning","OECD_2012_SKIL","cap_planning","unique","2012-2015","Index of planning skills at work","CAP",31
+"piaac_taskdisc","OECD_2012_SKIL","cap_taskdisc","unique","2012-2015","Index of task discretion at work","CAP",31
+"piaac_learnatwk","OECD_2012_SKIL","cap_learnatwk","unique","2012-2015","Index of learning at work","CAP",31
+"piaac_readytolrn","OECD_2012_SKIL","cap_readytolrn","unique","2012-2015","Index of readiness to learn","CAP",31
+"piaac_lrn12mth","OECD_2012_SKIL","cap_lrn12mth","unique","2012-2015","Proportion undertaking job related learning (formal and non-formal)","CAP",31
+"cc_iso3c","R_countrycode","cc_iso3c",NA,NA,"ISO 3-character alphanumeric country code","XXC",NA
+"cc_name","R_countrycode","cc_name",NA,NA,"ISO country name","XXC",NA
