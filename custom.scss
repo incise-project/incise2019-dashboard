@@ -855,3 +855,30 @@ nav .nav-tabs {
 .about-content {
   max-width: 600px;
 }
+
+/*-- bipa banner --*/
+
+div.bipa-banner {
+  background-color: $bsg-orange;
+  font-family: $headings-font-family;
+  font-weight: 400;
+  font-size: 10;
+  color: #fff;
+  padding: 5px;
+  border-bottom: 1px solid #fff;
+}
+
+div.bipa-banner a {
+  color: #fff;
+}
+
+div.bipa-banner p {
+  padding: 0px;
+  margin: 0px;
+}
+
+div.bipa-banner strong {
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+}
